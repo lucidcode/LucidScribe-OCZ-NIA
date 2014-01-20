@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCZ NIA", "OCZ NIA\OCZ NIA.csproj", "{6EAF032B-2BB5-4FB4-931B-1ED26F1E54B0}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "LucidScribe.OCZ.NIA", "Installer\Lucid Scribe OCZ NIA.vdproj", "{D42BA793-2FA6-4F6B-9ECE-A123B8296725}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericHid", "GenericHid\GenericHid.csproj", "{0B98058B-3DFA-49DC-8C84-3261C4C0D2FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EAF032B-2BB5-4FB4-931B-1ED26F1E54B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EAF032B-2BB5-4FB4-931B-1ED26F1E54B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EAF032B-2BB5-4FB4-931B-1ED26F1E54B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EAF032B-2BB5-4FB4-931B-1ED26F1E54B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D42BA793-2FA6-4F6B-9ECE-A123B8296725}.Debug|Any CPU.ActiveCfg = Debug
+		{D42BA793-2FA6-4F6B-9ECE-A123B8296725}.Debug|Any CPU.Build.0 = Debug
+		{D42BA793-2FA6-4F6B-9ECE-A123B8296725}.Release|Any CPU.ActiveCfg = Release
+		{D42BA793-2FA6-4F6B-9ECE-A123B8296725}.Release|Any CPU.Build.0 = Release
+		{0B98058B-3DFA-49DC-8C84-3261C4C0D2FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B98058B-3DFA-49DC-8C84-3261C4C0D2FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B98058B-3DFA-49DC-8C84-3261C4C0D2FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B98058B-3DFA-49DC-8C84-3261C4C0D2FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
